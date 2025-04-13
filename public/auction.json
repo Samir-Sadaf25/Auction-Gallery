@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Vintage Leica M3 Camera",
+        "description": "A classic 35mm film camera favored by professional photographers.",
+        "currentBidPrice": 2850,
+        "timeLeft": "2 Days",
+        "bidsCount": 12,
+        "image": "https://i.ibb.co.com/rKqXN9jv/Bid1-min.png"
+    },
+    {
+        "id": 2,
+        "title": "1965 Gibson SG Standard Electric Guitar",
+        "description": "A vintage electric guitar with iconic tone and design.",
+        "currentBidPrice": 2850,
+        "timeLeft": "2 Days",
+        "bidsCount": 8,
+        "image": "https://i.ibb.co.com/TqMdGPCD/Bid2-min.png"
+    },
+    {
+        "id": 3,
+        "title": "Original Apple Macintosh 128K (1984)",
+        "description": "The first Macintosh computer that revolutionized personal computing.",
+        "currentBidPrice": 2850,
+        "timeLeft": "3 Days",
+        "bidsCount": 14,
+        "image": "https://i.ibb.co.com/hxWcZTRY/Bid3-min.png"
+    },
+    {
+        "id": 4,
+        "title": "Rolex Submariner 16610",
+        "description": "A luxury dive watch known for its durability and style.",
+        "currentBidPrice": 2850,
+        "timeLeft": "5 Days",
+        "bidsCount": 18,
+        "image": "https://i.ibb.co.com/xqpvw7BF/Bid4-min.png"
+    },
+    {
+        "id": 5,
+        "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+        "description": "Rare first edition copy of a literary classic.",
+        "currentBidPrice": 2850,
+        "timeLeft": "7 Days",
+        "bidsCount": 10,
+        "image": "https://i.ibb.co.com/FqmS0kJM/Bid6-min.png"
+    },
+    {
+        "id": 6,
+        "title": "Mid-Century Modern Eames Lounge Chair",
+        "description": "Iconic lounge chair designed by Charles and Ray Eames.",
+        "currentBidPrice": 2850,
+        "timeLeft": "4 Days",
+        "bidsCount": 9,
+        "image": "https://i.ibb.co.com/gZgXc5GX/Bid5-min.png"
+    },
+    {
+        "id": 7,
+        "title": "Banksy Original Screen Print",
+        "description": "An original art piece by the elusive street artist Banksy.",
+        "currentBidPrice": 2850,
+        "timeLeft": "2 Days",
+        "bidsCount": 15,
+        "image": "https://i.ibb.co.com/PGWSF5C1/Bid7-min.png"
+    }
+]
